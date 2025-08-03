@@ -1,6 +1,6 @@
 {
   "name": "signal-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The SignalArray provides an elegant balance between simplicity and power, making array reactivity as natural as working with regular JavaScript arrays while providing the reactive benefits developers expect from modern frameworks.",
   "type": "module",
   "main": "SignalArray.js",
